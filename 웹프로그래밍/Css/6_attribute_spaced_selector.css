@@ -1,0 +1,18 @@
+#puple_flower {
+  width: 150px;
+  height: 113px;
+}
+
+#many_flowers {
+  width: 224px;
+  height: 162px;
+}
+
+#pink_tree{
+  width: 200px;
+  height: 358px;
+}
+
+img[title~="flower"]{
+  border: 5px solid yellow;
+}

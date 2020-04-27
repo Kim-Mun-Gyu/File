@@ -1,0 +1,22 @@
+p{
+  width:200px;
+  height:100px;
+  text-align: center;
+  background-color: #4CAF50;
+}
+
+#four_value{
+  border-radius: 15px 50px 30px 5px;
+}
+
+#three_value{
+  border-radius: 15px 50px 30px;
+}
+
+#two_value{
+  border-radius: 15px 50px;
+}
+
+#one_value{
+  border-radius: 15px;
+}
